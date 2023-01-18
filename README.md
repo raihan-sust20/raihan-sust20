@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Raihan.
 - 👀 I’m interested in NestJS, Express.js and React.
-- 📫 I can reached through following:
+- 📫 I can be reached through following:
      - Telegram: https://t.me/raihan_sust20
      - Twitter: https://twitter.com/RaihanA76178104
 
